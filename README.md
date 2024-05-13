@@ -1,7 +1,7 @@
 # Exploratory Data Analysis Demonstration
 
 ## Dataset Description:
-This repository contains an exploratory data analysis (EDA) demonstration using a dataset from the Hugging Face Datasets Hub. The analysis focuses on the IMDB dataset, which consists of movie reviews labeled as positive or negative sentiment.
+🤗 This repository contains an exploratory data analysis (EDA) demonstration using a dataset from the Hugging Face Datasets Hub. The analysis focuses on the IMDB dataset, which consists of movie reviews labeled as positive or negative sentiment.
 
 ### Why This Dataset?
 The IMDB dataset was chosen for this demonstration due to its relevance and popularity in natural language processing (NLP) tasks. By analyzing this dataset, we can gain insights into the sentiment distribution of movie reviews and explore the characteristics of text data.

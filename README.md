@@ -24,6 +24,16 @@ The EDA demonstration includes the following steps:
 - Checking for missing values and dropping duplicates from the DataFrame.
 
 ### Sharing the Repository:
-To share this repository with others, including the GitHub users dcshapiro and elmathioso as requested, simply provide them with the repository link. They can access the notebook and perform the analysis on their own.
 
 Feel free to explore the notebook and modify the analysis according to your needs. If you have any questions or suggestions, please don't hesitate to reach out.
+
+### AI ARCHITECTURE ELEVATOR PITCH:
+https://www.youtube.com/watch?v=ZW-hsYpi36A
+
+### GENERAL KNOWLEDGE VIDEO DEMONSTRATION:
+https://www.youtube.com/watch?v=N98e7LbzxkI
+
+### MODEL DEPLOYMENT DEMONSTRATION REPO:
+https://github.com/onchainlabs1/lemay
+
+

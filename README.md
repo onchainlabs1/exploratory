@@ -36,6 +36,7 @@ https://www.youtube.com/watch?v=N98e7LbzxkI
 ### MODEL DEPLOYMENT DEMONSTRATION REPO:
 https://github.com/onchainlabs1/lemay
 
-🚀 Thanks for checking this out! 😊 Excited to see what we can create together—let's make something awesome! 🚀
+
+🚀 Thanks for checking this out! 😊 Excited to see what we can create together — let's make something awesome! 🚀
 
 

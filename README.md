@@ -27,7 +27,7 @@ The EDA demonstration includes the following steps:
 9. Plotting boxplots to compare text lengths by sentiment.
 10. Generating word clouds for positive and negative reviews (optional but provides additional insights).
 
-## Word Cloud Analysis (Optional)
+#### Word Cloud Analysis (Optional)
 The notebook includes an optional analysis to generate word clouds for positive and negative reviews. This visualization helps in understanding the most frequent words in the reviews, excluding common stopwords. Note that this cell may take some time to execute.
 
 

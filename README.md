@@ -23,9 +23,8 @@ The EDA demonstration includes the following steps:
 - Adding a column for text length and visualizing the distribution of text lengths.
 - Checking for missing values and dropping duplicates from the DataFrame.
 
-🚀 Thanks for checking this out! 😊 Excited to see what we can create together — let's make something awesome!
+## 🚀 Thanks for checking this out! 😊 Excited to see what we can create together — let's make something awesome!
 
-### 
 
 ### 🎥 AI Architecture Elevator Pitch
 [Watch Here](https://www.youtube.com/watch?v=ZW-hsYpi36A)

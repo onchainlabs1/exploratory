@@ -24,10 +24,12 @@ The EDA demonstration includes the following steps:
 - Checking for missing values and dropping duplicates from the DataFrame.
 
 ### 🎥 AI Architecture Elevator Pitch
-https://www.youtube.com/watch?v=ZW-hsYpi36A
+[Watch Here](https://www.youtube.com/watch?v=ZW-hsYpi36A)
 
-### 🎥  General Knowledge Video Demonstration
-https://www.youtube.com/watch?v=N98e7LbzxkI
+### 📚 General Knowledge Video Demonstration
+[Watch Here](https://www.youtube.com/watch?v=N98e7LbzxkI)
 
 ### 🧑‍💻 Model Deployment Demonstration Repo
-https://github.com/onchainlabs1/lemay
+[View on GitHub](https://github.com/onchainlabs1/lemay)
+
+🚀 Thanks for checking this out! 😊 Excited to see what we can create together — let's make something awesome! 🚀

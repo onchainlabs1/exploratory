@@ -14,14 +14,22 @@ The IMDB dataset was chosen for this demonstration due to its relevance and popu
 ### 🔍 Analysis Overview
 The EDA demonstration includes the following steps:
 
-- Installing necessary dependencies for data analysis.
-- Loading the IMDB dataset using the Hugging Face Datasets library.
-- Converting the dataset into a pandas DataFrame for easier manipulation.
-- Displaying the first few rows and basic statistical descriptions of the DataFrame.
-- Counting the number of positive and negative reviews.
-- Visualizing the distribution of sentiments using bar plots.
-- Adding a column for text length and visualizing the distribution of text lengths.
-- Checking for missing values and dropping duplicates from the DataFrame.
+## Analysis Overview
+The EDA demonstration includes the following steps:
+1. Installing necessary dependencies for data analysis.
+2. Loading the IMDB dataset using the Hugging Face Datasets library.
+3. Converting the dataset into a pandas DataFrame for easier manipulation.
+4. Displaying the first few rows and basic statistical descriptions of the DataFrame.
+5. Counting the number of positive and negative reviews.
+6. Visualizing the distribution of sentiments using bar plots.
+7. Adding a column for text length and visualizing the distribution of text lengths.
+8. Checking for missing values and dropping duplicates from the DataFrame.
+9. Plotting boxplots to compare text lengths by sentiment.
+10. Generating word clouds for positive and negative reviews (optional but provides additional insights).
+
+## Word Cloud Analysis (Optional)
+The notebook includes an optional analysis to generate word clouds for positive and negative reviews. This visualization helps in understanding the most frequent words in the reviews, excluding common stopwords. Note that this cell may take some time to execute.
+
 
 #### 🚀 Thanks for checking this out! 😊 Excited to see what we can create together — let's make something awesome!
 

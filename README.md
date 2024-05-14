@@ -1,5 +1,7 @@
 # 🚀 Exploratory Data Analysis Demonstration
 
+**Author**: Fabio Figueiredo
+
 ## 📊 Dataset Description
 This repository contains an exploratory data analysis (EDA) demonstration using a dataset from the 🤗 Hugging Face Datasets Hub. The analysis focuses on the IMDB dataset, which consists of movie reviews labeled as positive or negative sentiment.
 
